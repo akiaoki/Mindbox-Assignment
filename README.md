@@ -2,7 +2,7 @@
  
 # Introduction
 
-Shape assignment's solution can be found inside the ShapeMath solution folder.
+Shape assignment's solution can be found inside the ShapeMath solution folder.<br>
 SQL assignment's solution can be found inside the OnlineShop solution folder.
  
 ## License
